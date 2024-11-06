@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/M2Zy9bP/01.jpg",
+      "title": "Understanding JSON Structure",
+      "aythore": "Samiul Islam",
+      "authore_img": "https://i.ibb.co.com/4MNxSST/David-Bekham.webp",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["JSON", "DataStructure", "Programming"]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/5W9xQsD/02.webp",
+      "title": "Introduction to REST APIs",
+      "aythore": "Nadia Rahman",
+      "authore_img": "https://i.ibb.co.com/Qd61X8r/vini.jpg",
+      "posted_date": "2024-10-02",
+      "reading_time": 8,
+      "hashtags": ["API", "WebDevelopment", "REST"]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/2WT65j4/03.jpg",
+      "title": "Mastering JavaScript in 30 Days",
+      "aythore": "Aminul Haque",
+      "authore_img": "https://i.ibb.co.com/6mbNrsM/nai.jpg",
+      "posted_date": "2024-10-03",
+      "reading_time": 10,
+      "hashtags": ["JavaScript", "Programming", "Learning"]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/mXjWRyC/04.jpg",
+      "title": "Best Practices in Python Coding",
+      "aythore": "Rehnuma Khatun",
+      "authore_img": "https://i.ibb.co.com/SNL0NyF/ozil.jpg",
+      "posted_date": "2024-10-04",
+      "reading_time": 6,
+      "hashtags": ["Python", "Coding", "BestPractices"]
+  },
+  {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/qCVPvdy/05.jpg",
+      "title": "Exploring Data Science with R",
+      "aythore": "Tariq Mahmood",
+      "authore_img": "https://i.ibb.co.com/M8fgw56/CR7.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 7,
+      "hashtags": ["DataScience", "RProgramming", "Analytics"]
+  }
+]
